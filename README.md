@@ -8,4 +8,4 @@ there have a lot of  method to make it seccuss.
 
 **e.g.**  create a usr named "loevc"
 
-I can give loevc a supermanage.
+I can give loevc a super authority.
