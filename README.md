@@ -5,3 +5,7 @@ we should create a new account to avoid a destory by the hackers or scriptors.
 
 ### how should we do now ?
 there have a lot of  method to make it seccuss.
+
+**e.g.**  create a usr named "loevc"
+
+I can give loevc a supermanage.
